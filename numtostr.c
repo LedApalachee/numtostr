@@ -1,6 +1,5 @@
 #include "numtostr.h"
 #include <stdlib.h>
-#include <stdio.h>
 #include <math.h>
 
 char* numtostr(int n)
